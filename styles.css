@@ -213,6 +213,20 @@ nav ul li a {
   padding-top: 50px;
 }
 
+.features-text {
+  text-align: start;
+}
+
+.features-text h3 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  text-align: start;
+}
+.features-text p {
+  width: 80%;
+  text-align: start;
+}
+
 .feature-bg-img {
   position: absolute;
   background-image: url("./assets/ADXaXa.png");
@@ -221,11 +235,11 @@ nav ul li a {
   background-position: center;
   background-repeat: no-repeat;
   height: 80%;
-  width: 80%;
+  width: 90%;
 }
 
 .feature-card {
-  background-color: #f5f7fa;
+  background: #fff;
   margin-top: 20px;
   padding: 20px;
   display: flex;
